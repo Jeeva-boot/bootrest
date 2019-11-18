@@ -1,0 +1,37 @@
+### General stuff ###
+.gradle
+/build/
+/out/
+/APP_LOG_HOME_IS_UNDEFINED/
+!gradle/wrapper/gradle-wrapper.jar
+bin
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### OpenShift Stuff ###
+**/.openshift-objects/
+**/occ
+
+### Mac stuff ###
+.DS_Store
